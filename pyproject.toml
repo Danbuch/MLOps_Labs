@@ -1,0 +1,16 @@
+[project]
+name = "mlops-labs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.5",
+    "matplotlib>=3.10.8",
+    "streamlit>=1.55.0",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+    "watchdog>=6.0.0",
+    "wikipedia>=1.4.0",
+]
